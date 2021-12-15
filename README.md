@@ -1,2 +1,1 @@
-# FOCD
-FOCD course group project
+# FOCD course group project
